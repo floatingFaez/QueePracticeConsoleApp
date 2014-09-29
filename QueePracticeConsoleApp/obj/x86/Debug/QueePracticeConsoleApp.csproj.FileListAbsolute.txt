@@ -1,0 +1,4 @@
+c:\users\sifat rahman\documents\visual studio 2010\Projects\QueePracticeConsoleApp\QueePracticeConsoleApp\bin\Debug\QueePracticeConsoleApp.exe
+c:\users\sifat rahman\documents\visual studio 2010\Projects\QueePracticeConsoleApp\QueePracticeConsoleApp\bin\Debug\QueePracticeConsoleApp.pdb
+c:\users\sifat rahman\documents\visual studio 2010\Projects\QueePracticeConsoleApp\QueePracticeConsoleApp\obj\x86\Debug\QueePracticeConsoleApp.exe
+c:\users\sifat rahman\documents\visual studio 2010\Projects\QueePracticeConsoleApp\QueePracticeConsoleApp\obj\x86\Debug\QueePracticeConsoleApp.pdb
